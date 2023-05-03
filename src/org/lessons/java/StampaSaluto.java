@@ -1,6 +1,6 @@
 package org.lessons.java;
 
-public class HelloJava {
+public class StampaSaluto {
 	public static void main(String[] args) {
 		System.out.println("Hello, Java!");
 	}
